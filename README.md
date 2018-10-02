@@ -1,4 +1,4 @@
-##M06 chat Example
+#M06 chat Example
 
 A simple chat demo using node.js, express, and socket.io
 
