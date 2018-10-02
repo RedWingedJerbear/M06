@@ -1,0 +1,17 @@
+{
+    "name": "m06",
+    "version": "0.0.1",
+    "description": "simple chat app",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "socket.io": "latest"
+    },
+    "author": "Jeremiah White",
+    "homepage": "https://github.com/RedWingedJerbear/M06",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RedWingedJerbear/M06"
+    },
+    "license": "Apache-2.0"
+}
